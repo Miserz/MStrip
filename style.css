@@ -22,6 +22,10 @@
 }
 
 /* ELEMENTS */
+html {
+	font-size: min(16px, 2.2vh);
+}
+
 body {
 	background: var(--background);
 	display: flex;
